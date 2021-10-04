@@ -13,6 +13,6 @@ Open Hardware License version 1.1 or (at your option) any later version.
 [https://www.ohwr.org/licenses/cern-ohl/license\_versions/v1.1](https://www.ohwr.org/licenses/cern-ohl/license_versions/v1.1)
 
 Contributors include:
- * Ace Medlock (@ace-dvm)
- * Eric Herman (@ericherman)
- * Kendrick Shaw (@kms15)
+ * [Ace Medlock](https://github.com/ace-dvm)
+ * [Eric Herman](https://github.com/ericherman)
+ * [Kendrick Shaw](https://github.com/kms15)
