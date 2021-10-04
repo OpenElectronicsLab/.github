@@ -5,12 +5,12 @@ Software and firmware is typically licensed under the GPL version 3 as
 published by the Free Software Foundataion or (at your option) any later
 version.
 
-https://www.gnu.org/licenses/gpl-3.0.txt
+[https://www.gnu.org/licenses/gpl-3.0.txt](https://www.gnu.org/licenses/gpl-3.0.txt)
 
 Hardware designs and documentation are typically licensed under the CERN
 Open Hardware License version 1.1 or (at your option) any later version.
 
-https://www.ohwr.org/licenses/cern-ohl/license_versions/v1.1
+[https://www.ohwr.org/licenses/cern-ohl/license\_versions/v1.1](https://www.ohwr.org/licenses/cern-ohl/license_versions/v1.1)
 
 Contributors include:
  * Ace Medlock (@ace-dvm)
